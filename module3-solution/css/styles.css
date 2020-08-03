@@ -1,0 +1,38 @@
+body {
+    font-size: 16px;
+    font-family: cursive;
+    color: black;
+}
+
+#header-nav {
+    background-color: #cacaca;
+}
+
+.navbar-brand h1 { 
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#nav-list {
+    margin-top: 10px;
+    background-color:white;
+}
+#nav-list li {
+    border: 1px solid black;
+}
+#nav-list a {
+    text-align: center;
+}
+#nav-list a:hover {
+    background: #737171;
+}
+
+.container h2 {
+    margin-bottom: 30px;
+}
+
+#tall {
+    background-color: #cacaca;
+}
